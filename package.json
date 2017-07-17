@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^2.0.1",
+    "cryptopeer-crypto": "^0.6.3",
+    "ws": "^3.0.0"
+  }
+}
