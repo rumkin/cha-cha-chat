@@ -1,4 +1,4 @@
-# Crypto Chat Example
+# Chat with ChaCha20 encryption
 
 This is a simple realtime only chat with end-to-end encryption. This repository
 is just an example and should not be used as complete solution for information
@@ -9,7 +9,7 @@ SSL-certificate for it).
 ## Cryptography
 
 This chat use ECDH (Diffie-Hellman) algorythm to safely exchange encryption keys
-using central server. Chat uses ChaCha20 algorithm to encript message content.
+using central server. Chat uses ChaCha20 algorythm to encrypt message content.
 ChaCha20 is [recommended by Google](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) as TLS protocol.
 
 ## Example
